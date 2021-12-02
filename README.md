@@ -5,7 +5,7 @@
 #### Nice to meet you!
 I am a web front-end developer!
 
-- 😄 My Blog:[crazymin.com](https://www.crazyming.com)
+- 😄 My Blog:[crazymin.com](https://www.crazyming.com?from=github)
 
 
 
